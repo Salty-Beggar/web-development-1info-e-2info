@@ -1,0 +1,3 @@
+[submodule "FilmeTickets-Laravel"]
+	path = FilmeTickets-Laravel
+	url = https://github.com/Salty-Beggar/FilmeTickets-Laravel.git
